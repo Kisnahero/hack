@@ -56,8 +56,8 @@ echo -e $R"        $Y Decompile $R               :                   $B Payload"
 echo -e $R"                                  ."
 echo -e $R"                                  $G HackApk V1.0"
 echo -e $R"                                  $P ••••••••••••••••••••••"
-echo -e $R"                                  $C Author :$Y Aditya Shakya"
-echo -e $R"                                  $C Email  :$Y adi1090x@gmail.com"
+echo -e $R"                                  $C Author :$Y kisna verma"
+echo -e $R"                                  $C Email  :$Y vermakrishna7095@gmail.com"
 echo -e $R"                                  $R Apk Hacking Framework for Termux"
 echo
 
